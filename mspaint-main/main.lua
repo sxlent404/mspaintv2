@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://github.com/notpoiu/mspaint/releases/latest/download/Script.luau"))()
